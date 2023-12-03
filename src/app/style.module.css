@@ -1,0 +1,10 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.list li {
+  /* 서울 뉴욕 런던 글자 스타일 변경 */
+  font-size: 14px;
+  line-height: 1.5;
+}
